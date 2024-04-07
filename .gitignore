@@ -1,0 +1,9 @@
+﻿# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/.svn
+/.vscode
+/bin
+/obj
+
+/YOLO-Model/yolo-v3
+/YOLO-Model/coolooai-v3
